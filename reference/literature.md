@@ -1,7 +1,7 @@
 # 参考内容
 
 | 参考内容名单 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| :-: | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [为什么修改Hosts可以实现翻墙？](http://blog.sina.com.cn/s/blog_9afb6c720102wb8z.html) |
 | [DNS劫持和DNS污染的区别](http://www.williamlong.info/archives/3356.html) |
 |  [上网限制和翻墙基本原理](http://blog.021xt.cc/archives/85) |

@@ -1,7 +1,7 @@
 # 相关视频
 
 | 优土视频列表 |
-| --- | --- | --- | --- | --- | --- | --- |
+| :-: | --- | --- | --- | --- | --- | --- |
 |  [iQiQi对暗网的访问](https://www.youtube.com/watch?v=fv98FtQOsZk) |
 |  [Professor PowPow对暗网的介绍](https://www.youtube.com/watch?v=STpuW-7VQDE&list=PLYCvmttdLR8rINF94fqtQMAAtKNkVLjf0) |
 | [AWS\(亚马逊云\)搭建免费高速VPS](https://www.youtube.com/watch?v=PG9PBHbk5Lg&t=264s) |
