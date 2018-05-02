@@ -1,0 +1,852 @@
+
+<!DOCTYPE HTML>
+<html lang="" >
+    <head>
+        <meta charset="UTF-8">
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <title>heroku搭建ss分享站点 · GitBook</title>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="description" content="">
+        <meta name="generator" content="GitBook 3.2.3">
+        
+        
+        
+    
+    <link rel="stylesheet" href="../gitbook/style.css">
+
+    
+            
+                
+                <link rel="stylesheet" href="../gitbook/gitbook-plugin-search-plus/search.css">
+                
+            
+                
+                <link rel="stylesheet" href="../gitbook/gitbook-plugin-alerts/style.css">
+                
+            
+                
+                <link rel="stylesheet" href="../gitbook/gitbook-plugin-highlight/website.css">
+                
+            
+                
+                <link rel="stylesheet" href="../gitbook/gitbook-plugin-fontsettings/website.css">
+                
+            
+        
+
+    
+
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+
+        
+    
+    
+    <meta name="HandheldFriendly" content="true"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <link rel="apple-touch-icon-precomposed" sizes="152x152" href="../gitbook/images/apple-touch-icon-precomposed-152.png">
+    <link rel="shortcut icon" href="../gitbook/images/favicon.ico" type="image/x-icon">
+
+    
+    <link rel="next" href="../proxy-tool/shadowsocks.html" />
+    
+    
+    <link rel="prev" href="for-ss.html" />
+    
+
+    </head>
+    <body>
+        
+<div class="book">
+    <div class="book-summary">
+        
+            
+<div id="book-search-input" role="search">
+    <input type="text" placeholder="Type to search" />
+</div>
+
+            
+                <nav role="navigation">
+                
+
+
+<ul class="summary">
+    
+    
+    
+        
+        <li>
+            <a href="/" target="_blank" class="custom-link">科学上网</a>
+        </li>
+    
+    
+
+    
+    <li class="divider"></li>
+    
+
+    
+        
+        <li class="header">关于此书</li>
+        
+        
+    
+        <li class="chapter " data-level="1.1" data-path="../">
+            
+                <a href="../">
+            
+                    
+                        <b>1.1.</b>
+                    
+                    前言
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+    
+        
+        <li class="header">阅读须知</li>
+        
+        
+    
+        <li class="chapter " data-level="2.1" data-path="../notice/warnning.html">
+            
+                <a href="../notice/warnning.html">
+            
+                    
+                        <b>2.1.</b>
+                    
+                    注意事项
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.2" data-path="../notice/reg-nsfw.html">
+            
+                <a href="../notice/reg-nsfw.html">
+            
+                    
+                        <b>2.2.</b>
+                    
+                    注册的防护
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+    
+        
+        <li class="header">搜索引擎</li>
+        
+        
+    
+        <li class="chapter " data-level="3.1" data-path="../search-tool/qwant.html">
+            
+                <a href="../search-tool/qwant.html">
+            
+                    
+                        <b>3.1.</b>
+                    
+                    Qwant
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="3.2" data-path="../search-tool/ecosia.html">
+            
+                <a href="../search-tool/ecosia.html">
+            
+                    
+                        <b>3.2.</b>
+                    
+                    Ecosia
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="3.3" data-path="../search-tool/duckduckgo.html">
+            
+                <a href="../search-tool/duckduckgo.html">
+            
+                    
+                        <b>3.3.</b>
+                    
+                    DuckDuckGo
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="3.4" data-path="../search-tool/ask.html">
+            
+                <a href="../search-tool/ask.html">
+            
+                    
+                        <b>3.4.</b>
+                    
+                    Ask
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+    
+        
+        <li class="header">浏览器</li>
+        
+        
+    
+        <li class="chapter " data-level="4.1" data-path="../browser/tor-firefox.html">
+            
+                <a href="../browser/tor-firefox.html">
+            
+                    
+                        <b>4.1.</b>
+                    
+                    Tor（Firefox）
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="4.2" data-path="../browser/opera.html">
+            
+                <a href="../browser/opera.html">
+            
+                    
+                        <b>4.2.</b>
+                    
+                    opera
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="4.3" data-path="../browser/chrome.html">
+            
+                <a href="../browser/chrome.html">
+            
+                    
+                        <b>4.3.</b>
+                    
+                    chrome
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+    
+        
+        <li class="header">防止污染</li>
+        
+        
+    
+        <li class="chapter " data-level="5.1" data-path="../no-dns-spoofing/hosts.html">
+            
+                <a href="../no-dns-spoofing/hosts.html">
+            
+                    
+                        <b>5.1.</b>
+                    
+                    修改hosts查询维基百科
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="5.2" data-path="../no-dns-spoofing/dnscrypt.html">
+            
+                <a href="../no-dns-spoofing/dnscrypt.html">
+            
+                    
+                        <b>5.2.</b>
+                    
+                    DNSCrypt打开ss分享站点
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+    
+        
+        <li class="header">网站应用</li>
+        
+        
+    
+        <li class="chapter " data-level="6.1" data-path="web-proxy.html">
+            
+                <a href="web-proxy.html">
+            
+                    
+                        <b>6.1.</b>
+                    
+                    网页代理的使用
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="6.2" data-path="rabb.html">
+            
+                <a href="rabb.html">
+            
+                    
+                        <b>6.2.</b>
+                    
+                    rabb.it观看YouTube
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="6.3" data-path="for-ss.html">
+            
+                <a href="for-ss.html">
+            
+                    
+                        <b>6.3.</b>
+                    
+                    提取ss站点有效信息
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter active" data-level="6.4" data-path="heroku-deploy.html">
+            
+                <a href="heroku-deploy.html">
+            
+                    
+                        <b>6.4.</b>
+                    
+                    heroku搭建ss分享站点
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+    
+        
+        <li class="header">代理工具</li>
+        
+        
+    
+        <li class="chapter " data-level="7.1" data-path="../proxy-tool/shadowsocks.html">
+            
+                <a href="../proxy-tool/shadowsocks.html">
+            
+                    
+                        <b>7.1.</b>
+                    
+                    SS/SSR
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="7.2" data-path="../proxy-tool/brook.html">
+            
+                <a href="../proxy-tool/brook.html">
+            
+                    
+                        <b>7.2.</b>
+                    
+                    brook
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="7.3" data-path="../proxy-tool/v2ray.html">
+            
+                <a href="../proxy-tool/v2ray.html">
+            
+                    
+                        <b>7.3.</b>
+                    
+                    v2ray
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="7.4" data-path="../proxy-tool/lantern.html">
+            
+                <a href="../proxy-tool/lantern.html">
+            
+                    
+                        <b>7.4.</b>
+                    
+                    Lantern（付费）
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+    
+        
+        <li class="header">VPN软件</li>
+        
+        
+    
+        <li class="chapter " data-level="8.1" data-path="../vpn-soft/betternet.html">
+            
+                <a href="../vpn-soft/betternet.html">
+            
+                    
+                        <b>8.1.</b>
+                    
+                    Betternet
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="8.2" data-path="../vpn-soft/pay-vpn.html">
+            
+                <a href="../vpn-soft/pay-vpn.html">
+            
+                    
+                        <b>8.2.</b>
+                    
+                    付费VPN
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="8.3" data-path="../vpn-soft/gatevpn.html">
+            
+                <a href="../vpn-soft/gatevpn.html">
+            
+                    
+                        <b>8.3.</b>
+                    
+                    GateVPN
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="8.4" data-path="../vpn-soft/openvpn.html">
+            
+                <a href="../vpn-soft/openvpn.html">
+            
+                    
+                        <b>8.4.</b>
+                    
+                    OpenVPN
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+    
+        
+        <li class="header">细节摘录</li>
+        
+        
+    
+        <li class="chapter " data-level="9.1" data-path="../extract/4ss1130.html">
+            
+                <a href="../extract/4ss1130.html">
+            
+                    
+                        <b>9.1.</b>
+                    
+                    关于ss#1130
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="9.2" data-path="../extract/caoliu.html">
+            
+                <a href="../extract/caoliu.html">
+            
+                    
+                        <b>9.2.</b>
+                    
+                    难封锁的草榴
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+    
+        
+        <li class="header">技术原理</li>
+        
+        
+    
+        <li class="chapter " data-level="10.1" data-path="../abc/4dns.html">
+            
+                <a href="../abc/4dns.html">
+            
+                    
+                        <b>10.1.</b>
+                    
+                    DNS劫持与污染
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="10.2" data-path="../abc/web-proxy-x.html">
+            
+                <a href="../abc/web-proxy-x.html">
+            
+                    
+                        <b>10.2.</b>
+                    
+                    网页代理的原理
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="10.3" data-path="../abc/meek.html">
+            
+                <a href="../abc/meek.html">
+            
+                    
+                        <b>10.3.</b>
+                    
+                    meek网桥流量混淆
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="10.4" data-path="../abc/1190000011485579.html">
+            
+                <a href="../abc/1190000011485579.html">
+            
+                    
+                        <b>10.4.</b>
+                    
+                    [转]科学上网原理
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="10.5" data-path="../abc/gfw.html">
+            
+                <a href="../abc/gfw.html">
+            
+                    
+                        <b>10.5.</b>
+                    
+                    [转]GFW原理和封锁技术
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+    
+        
+        <li class="header">相关视频</li>
+        
+        
+    
+        <li class="chapter " data-level="11.1" data-path="../v-li/video-list.html">
+            
+                <a href="../v-li/video-list.html">
+            
+                    
+                        <b>11.1.</b>
+                    
+                    视频列表
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+    
+        
+        <li class="header">内容列表</li>
+        
+        
+    
+        <li class="chapter " data-level="12.1" data-path="../reference/literature.html">
+            
+                <a href="../reference/literature.html">
+            
+                    
+                        <b>12.1.</b>
+                    
+                    参考内容
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+    
+        
+        <li class="header">夺命十三剑</li>
+        
+        
+    
+        <li class="chapter " data-level="13.1" data-path="../yan-shi-san.html">
+            
+                <a href="../yan-shi-san.html">
+            
+                    
+                        <b>13.1.</b>
+                    
+                    总结
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+    
+
+    <li class="divider"></li>
+
+    <li>
+        <a href="https://www.gitbook.com" target="blank" class="gitbook-link">
+            Published with GitBook
+        </a>
+    </li>
+</ul>
+
+
+                </nav>
+            
+        
+    </div>
+
+    <div class="book-body">
+        
+            <div class="body-inner">
+                
+                    
+
+<div class="book-header" role="navigation">
+    
+
+    <!-- Title -->
+    <h1>
+        <i class="fa fa-circle-o-notch fa-spin"></i>
+        <a href=".." >heroku搭建ss分享站点</a>
+    </h1>
+</div>
+
+
+
+
+                    <div class="page-wrapper" tabindex="-1" role="main">
+                        <div class="page-inner">
+                            
+<div class="search-plus" id="book-search-results">
+    <div class="search-noresults">
+    
+                                <section class="normal markdown-section">
+                                
+                                <h1 id="heroku&#x642D;&#x5EFA;ss&#x5206;&#x4EAB;&#x7AD9;&#x70B9;">heroku&#x642D;&#x5EFA;ss&#x5206;&#x4EAB;&#x7AD9;&#x70B9;</h1>
+<p>fork&#xFF01;github&#x9879;&#x76EE;&#xFF1A;</p>
+<ul>
+<li><a href="https://github.com/zc-zh-001/ShadowSocks-Share" target="_blank">ShadowSocks-Share</a></li>
+<li><a href="https://github.com/the0demiurge/ShadowSocksShare-OpenShift" target="_blank">ShadowSocksShare-OpenShift</a></li>
+</ul>
+<p>&#x521B;&#x5EFA;App</p>
+<p><img src="https://raw.githubusercontent.com/loremwalker/fq-book/master/.gitbook/assets/2018-04-29_195722.png" alt=""></p>
+<p>&#x5728;<code>deploy</code>&#x70B9;&#x51FB;github&#x56FE;&#x6807;</p>
+<p><img src="https://raw.githubusercontent.com/loremwalker/fq-book/master/.gitbook/assets/2018-04-29_200459.png" alt=""></p>
+<p>&#x5982;&#x56FE;&#x8BBE;&#x7F6E;</p>
+<p><img src="https://raw.githubusercontent.com/loremwalker/fq-book/master/.gitbook/assets/2018-04-29_200843%20%281%29.png" alt=""></p>
+<p>&#x6D4B;&#x8BD5;</p>
+<p><img src="https://raw.githubusercontent.com/loremwalker/fq-book/master/.gitbook/assets/2018-04-29_201525.png" alt=""></p>
+<p>&#x4FEE;&#x6539;&#x6837;&#x5F0F;&#x53EF;&#x70B9;&#x51FB;find file&#x9009;&#x9879;&#xFF0C;&#x67E5;&#x627E;<code>.html</code>&#x3001;<code>.css</code>&#x6587;&#x4EF6;</p>
+<p><img src="https://raw.githubusercontent.com/loremwalker/fq-book/master/.gitbook/assets/2018-04-29_201800.png" alt=""></p>
+<p>&#x5982;&#x6709;&#x5176;&#x4ED6;&#x95EE;&#x9898;&#xFF0C;&#x53EF;&#x67E5;&#x770B;&#x6216;&#x53D1;&#x8D77;issues</p>
+<p><img src="https://raw.githubusercontent.com/loremwalker/fq-book/master/.gitbook/assets/2018-04-29_202117.png" alt=""></p>
+<p>heroku&#x7684;&#x514D;&#x8D39;&#x914D;&#x989D;&#x7684;&#x9650;&#x5236;
+&#xFF1A;</p>
+<ul>
+<li>Network Bandwidth/&#x6D41;&#x91CF;: 2TB/month &#x2013; Soft</li>
+<li>Shared DB processing/&#x5E76;&#x53D1;&#x6570;: Max 200msec per second CPU time &#x2013; Soft</li>
+<li>Dyno RAM usage/&#x4F7F;&#x7528;&#x8FD0;&#x884C;&#x5185;&#x5B58;: 512MB &#x2013; Hard</li>
+<li>Slug Size/&#x5B58;&#x50A8;&#x7A7A;&#x95F4;: 300MB &#x2013; Hard</li>
+<li>Request Length/&#x8BF7;&#x6C42;&#x65F6;&#x95F4;: 30 seconds &#x2013; Hard</li>
+</ul>
+
+                                
+                                </section>
+                            
+    </div>
+    <div class="search-results">
+        <div class="has-results">
+            
+            <h1 class="search-results-title"><span class='search-results-count'></span> results matching "<span class='search-query'></span>"</h1>
+            <ul class="search-results-list"></ul>
+            
+        </div>
+        <div class="no-results">
+            
+            <h1 class="search-results-title">No results matching "<span class='search-query'></span>"</h1>
+            
+        </div>
+    </div>
+</div>
+
+                        </div>
+                    </div>
+                
+            </div>
+
+            
+                
+                <a href="for-ss.html" class="navigation navigation-prev " aria-label="Previous page: 提取ss站点有效信息">
+                    <i class="fa fa-angle-left"></i>
+                </a>
+                
+                
+                <a href="../proxy-tool/shadowsocks.html" class="navigation navigation-next " aria-label="Next page: SS/SSR">
+                    <i class="fa fa-angle-right"></i>
+                </a>
+                
+            
+        
+    </div>
+
+    <script>
+        var gitbook = gitbook || [];
+        gitbook.push(function() {
+            gitbook.page.hasChanged({"page":{"title":"heroku搭建ss分享站点","level":"6.4","depth":1,"next":{"title":"SS/SSR","level":"7.1","depth":1,"path":"proxy-tool/shadowsocks.md","ref":"proxy-tool/shadowsocks.md","articles":[]},"previous":{"title":"提取ss站点有效信息","level":"6.3","depth":1,"path":"how-used-web/for-ss.md","ref":"how-used-web/for-ss.md","articles":[]},"dir":"ltr"},"config":{"plugins":["-lunr","-search","search-plus","-sharing","sharing-plus","alerts","livereload"],"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"pluginsConfig":{"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":true},"sharing":{"qq":true,"all":["facebook","google","twitter","qq","qzone"],"douban":false,"facebook":true,"weibo":false,"instapaper":false,"whatsapp":false,"hatenaBookmark":false,"twitter":true,"messenger":false,"line":false,"vk":false,"pocket":false,"google":true,"viber":false,"stumbleupon":false,"qzone":true,"linkedin":false},"search-plus":{},"sharing-plus":{"qq":false,"all":["facebook","google","twitter","instapaper","linkedin","pocket","stumbleupon"],"douban":false,"facebook":true,"weibo":false,"instapaper":false,"whatsapp":false,"hatenaBookmark":false,"twitter":true,"messenger":false,"line":false,"vk":false,"pocket":true,"google":false,"viber":false,"stumbleupon":false,"qzone":false,"linkedin":false},"alerts":{},"livereload":{},"highlight":{},"fontsettings":{"theme":"white","family":"sans","size":2}},"theme":"default","pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"variables":{},"links":{"sidebar":{"科学上网":"/"}},"gitbook":"*"},"file":{"path":"how-used-web/heroku-deploy.md","mtime":"2018-05-02T12:37:58.798Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2018-05-02T13:57:50.539Z"},"basePath":"..","book":{"language":""}});
+        });
+    </script>
+</div>
+
+        
+    <script src="../gitbook/gitbook.js"></script>
+    <script src="../gitbook/theme.js"></script>
+    
+        
+        <script src="../gitbook/gitbook-plugin-search-plus/jquery.mark.min.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-search-plus/search.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-sharing-plus/buttons.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-alerts/plugin.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-livereload/plugin.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-fontsettings/fontsettings.js"></script>
+        
+    
+
+    </body>
+</html>
+
