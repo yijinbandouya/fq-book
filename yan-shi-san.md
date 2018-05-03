@@ -78,5 +78,5 @@ ss分享与网页代理、相关VPN或代理软件以及chrome插件下载站点
 
  https://github.com/loremwalker/WebSiteUseful
 
-![](https://raw.githubusercontent.com/loremwalker/fq-book-backup/master/.gitbook/assets/2018-05-02_212043.png)
+![](https://raw.githubusercontent.com/loremwalker/fq-book/master/.gitbook/assets/2018-05-02_212043.png)
 
