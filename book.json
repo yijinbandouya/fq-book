@@ -1,0 +1,89 @@
+{
+    "title": "科学上网",
+    "description": "FREE科学上网的方式",
+    "author": "loremwalker",
+    "output.name": "site",
+    "language": "zh-hans",
+    "gitbook": "3.2.3",
+    "root": ".",
+    
+    "structure": {
+        "readme": "readme.md"
+    },
+
+    "links": {
+        "sidebar": {
+            "科学上网":"/"
+        }
+    },
+    "plugins": [
+        "-lunr", 
+        "-search", 
+        "search-plus",
+        "-sharing",
+        "sharing-plus",
+        "alerts",
+        "expandable-chapters-small",
+        "rss",
+        "ace",
+        "emphasize",
+        "todo",
+        "advanced-emoji",
+        "tbfed-pagefooter",
+        "github",
+        "ga"
+    ],
+
+    "pluginsConfig": {
+        
+        "ga": {
+            "token": "UA-118581437-1"
+        },
+        "theme-default": {"showLevel": true},
+        
+        "expandable-chapters-small":{},
+      
+        "github": {"url": "https://github.com/loremwalker"},  
+        "sharing": {
+            "douban": false,
+            "facebook": true,
+            "google": true,
+            "hatenaBookmark": false,
+            "instapaper": false,
+            "line": false,
+            "linkedin": false,
+            "messenger": false,
+            "pocket": false,
+            "qq": true,
+            "qzone": true,
+            "stumbleupon": false,
+            "twitter": true,
+            "viber": false,
+            "vk": false,
+            "weibo": false,
+            "whatsapp": false,
+            "all": [
+                "facebook", "google", "twitter",
+                "qq", "qzone"
+            ]
+        },
+        "rss": {
+            "title": "科学上网",
+            "description": "FREE科学上网",
+            "author": "loremwalker",
+            "feed_url": "https://loremwalker.github.io/fq-book/rss",
+            "site_url": "https://loremwalker.github.io/fq-book/",
+            "managingEditor": "loremwalker@hotmail.com",
+            "webMaster": "loremwalker@hotmail.com",
+            "categories": [
+                "gitbook"
+            ]
+        },
+        
+    "tbfed-pagefooter": {
+        "copyright":"Copyright &copy loremwalker 2018",
+        "modify_label": "该文件修订时间：",
+        "modify_format": "YYYY-MM-DD HH:mm:ss"
+    }
+ }
+}
