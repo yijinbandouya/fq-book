@@ -33,7 +33,7 @@ DNS是计算机域名系统 \(Domain Name System 或Domain Name Service\) 的缩
 
 ## DNS污染
 
- 是一种让一般用户由于得到虚假目标主机IP而不能与其通信的方法，是一种DNS缓存投毒攻击（DNS cache poisoning）。
+是一种让一般用户由于得到虚假目标主机IP而不能与其通信的方法，是一种DNS缓存投毒攻击（DNS cache poisoning）。
 
 由于通常的DNS查询没有任何认证机制，而且DNS查询通常基于的UDP是无连接不可靠的协议，因此DNS的查询非常容易被篡改，通过对UDP端口53上的DNS查询进行入侵检测，一经发现与关键词相匹配的请求，GFW立即伪装成目标域名的解析服务器（NS，Name Server）给查询者返回虚假结果。
 
