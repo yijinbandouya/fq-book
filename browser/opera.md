@@ -2,7 +2,9 @@
 
 ## 使用VPN
 
-修改国家/地区
+> **[warning]**
+> **注意：为了规避风险，合理使用VPN代理服务，建议将国家/地区改成香港地区**
+
 
 ![&#x7CFB;&#x7EDF;&#x8BBE;&#x7F6E;-&amp;gt;&#x65F6;&#x95F4;&#x548C;&#x8BED;&#x8A00;](https://raw.githubusercontent.com/loremwalker/fq-book/master/.gitbook/assets/2018-04-28_204541.png)
 
@@ -14,7 +16,6 @@
 
 ![](https://raw.githubusercontent.com/loremwalker/fq-book/master/.gitbook/assets/2018-04-28_210138.png)
 
-**注意： 为了规避风险，合理使用VPN代理服务，建议将国家/地区改成香港地区**
 
 ## 扩展应用
 
