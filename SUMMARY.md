@@ -5,7 +5,7 @@
 
 ## 阅读须知
 * [注意事项](notice/warnning.md)
-* [注册的防护](notice/reg-nsfw.md)
+* [隐私防护](notice/reg-nsfw.md)
 
 ## 搜索引擎
 * [Qwant](search-tool/qwant.md)
