@@ -4,7 +4,7 @@
         <description><![CDATA[FREE科学上网]]></description>
         <link>https://loremwalker.github.io/fq-book/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 04 May 2018 09:37:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 May 2018 12:12:53 GMT</lastBuildDate>
         <atom:link href="https://loremwalker.github.io/fq-book/rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[loremwalker]]></author>
         <managingEditor><![CDATA[loremwalker@hotmail.com]]></managingEditor>
@@ -239,19 +239,14 @@
             <dc:creator><![CDATA[loremwalker]]></dc:creator>
         </item>
         <item>
-            <title><![CDATA[参考内容]]></title>
-            <description><![CDATA[| 参考内容名单 |
-| :-: | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 为什么修改Hosts可以实现翻墙？ |
-| DNS劫持和DNS污染的区别 |
-|  上网限制和翻墙基本原理 |
-| 科学上网的原理 |
-| 写给非专业人士看的 Shadowsocks 简介 |
-| GFW原理和封锁技术（五种方法） |
-| 中国对互联网的审查 |
-| GFW的工作原理及突破技术 |
-| 网页代理运行原理 |
-|  meek流量混淆是什么东西？ |]]></description>
+            <title><![CDATA[参考文献]]></title>
+            <description><![CDATA[| 参考文献名单 |
+|:-:|
+|维基模板-突破网络封锁技术|
+|上网限制和翻墙基本原理 |
+|科学上网的原理 |
+|写给非专业人士看的Shadowsocks简介 |
+|GFW原理和封锁技术|]]></description>
             <link>https://loremwalker.github.io/fq-book/reference/literature.html</link>
             <guid isPermaLink="true">https://loremwalker.github.io/fq-book/reference/literature.html</guid>
             <dc:creator><![CDATA[loremwalker]]></dc:creator>
