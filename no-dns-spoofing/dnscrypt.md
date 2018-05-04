@@ -16,5 +16,5 @@
 
 ![](https://raw.githubusercontent.com/loremwalker/fq-book/master/.gitbook/assets/2018-04-29-1.png)
 
- 分享站点以污染为主，差不多只要不是对communist有意见，基本都不会被列入IP黑名单。
+分享站点以污染为主，差不多只要不是对communist有意见，基本都不会被列入IP黑名单，也就是封IP。
 

@@ -4,7 +4,7 @@
         <description><![CDATA[FREE科学上网]]></description>
         <link>https://loremwalker.github.io/fq-book/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 03 May 2018 14:30:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 May 2018 09:21:30 GMT</lastBuildDate>
         <atom:link href="https://loremwalker.github.io/fq-book/rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[loremwalker]]></author>
         <managingEditor><![CDATA[loremwalker@hotmail.com]]></managingEditor>
@@ -59,14 +59,14 @@
         </item>
         <item>
             <title><![CDATA[Tor（Firefox）]]></title>
-            <description><![CDATA[tor安装，请注意：azure已由政府背景的企业所代理，并不建议选择]]></description>
+            <description><![CDATA[azure已由政府背景的企业所代理，不太建议选择]]></description>
             <link>https://loremwalker.github.io/fq-book/browser/tor-firefox.html</link>
             <guid isPermaLink="true">https://loremwalker.github.io/fq-book/browser/tor-firefox.html</guid>
             <dc:creator><![CDATA[loremwalker]]></dc:creator>
         </item>
         <item>
             <title><![CDATA[opera]]></title>
-            <description><![CDATA[修改国家/地区]]></description>
+            <description><![CDATA[系统设置-&gt;时间和语言]]></description>
             <link>https://loremwalker.github.io/fq-book/browser/opera.html</link>
             <guid isPermaLink="true">https://loremwalker.github.io/fq-book/browser/opera.html</guid>
             <dc:creator><![CDATA[loremwalker]]></dc:creator>
@@ -143,7 +143,7 @@
         </item>
         <item>
             <title><![CDATA[Lantern（付费）]]></title>
-            <description><![CDATA[** 注意：为了规避风险，合理使用VPN代理服务，建议将国家/地区改成香港地区**]]></description>
+            <description><![CDATA[打开蓝灯，高级设置，按此配置代理]]></description>
             <link>https://loremwalker.github.io/fq-book/proxy-tool/lantern.html</link>
             <guid isPermaLink="true">https://loremwalker.github.io/fq-book/proxy-tool/lantern.html</guid>
             <dc:creator><![CDATA[loremwalker]]></dc:creator>

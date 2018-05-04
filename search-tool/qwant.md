@@ -6,7 +6,7 @@
 >
 > ——摘自维基百科
 
-**搜索效果很不错，数据很全面，推荐！**
+搜索效果很不错，数据很全面，推荐！
 
 ![](https://raw.githubusercontent.com/loremwalker/fq-book/master/.gitbook/assets/2018-05-01_084517.png)
 
