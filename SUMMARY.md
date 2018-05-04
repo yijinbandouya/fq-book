@@ -54,8 +54,8 @@
 ## 相关视频
 * [视频列表](v-li/video-list.md)
 
-## 内容列表
-* [参考内容](reference/literature.md)
+## 参考文献
+* [文献名单](reference/literature.md)
 
 ## 夺命十三剑
 * [总结](yan-shi-san.md)
