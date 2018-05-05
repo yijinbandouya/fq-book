@@ -32,12 +32,12 @@
 * [SS/SSR](proxy-tool/ss-ssr.md)
 * [brook](proxy-tool/brook.md)
 * [v2ray](proxy-tool/v2ray.md)
-* [Lantern（付费）](proxy-tool/lantern.md)
+* [Lantern](proxy-tool/lantern.md)
 * [proxifier](proxy-tool/proxifier.md)
 
 ## VPN软件
-* [Betternet](vpn-soft/betternet.md)
 * [付费VPN](vpn-soft/pay-vpn.md)
+* [Betternet](vpn-soft/betternet.md)
 * [GateVPN](vpn-soft/gatevpn.md)
 * [OpenVPN](vpn-soft/openvpn.md)
 
