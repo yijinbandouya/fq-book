@@ -8,10 +8,9 @@
 |[科学上网的原理](https://segmentfault.com/a/1190000011485579) |
 |[写给非专业人士看的Shadowsocks简介](https://vc2tea.com/whats-shadowsocks/) |
 |[GFW原理和封锁技术](https://xuranus.github.io/2017/10/09/GFW%E5%8E%9F%E7%90%86%E5%92%8C%E5%B0%81%E9%94%81%E6%8A%80%E6%9C%AF/)|
-|[游戏服务器：到底使用UDP还是TCP](http://blog.jobbole.com/64638/)|
+|[草榴社区这类色情网站为什么封不掉](https://www.leiphone.com/news/201612/isY4iUwVGppRMsZA.html)|
 |[网络爬虫基本原理(一)](http://www.cnblogs.com/wawlian/archive/2012/06/18/2553061.html)|
 |[网络爬虫基本原理(二)](http://www.cnblogs.com/wawlian/archive/2012/06/18/2554072.html)|
-|[如何快速掌握Python数据采集与网络爬虫技术](https://yq.aliyun.com/articles/559520)|
 
 
 

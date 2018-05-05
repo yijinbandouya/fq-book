@@ -4,7 +4,7 @@
         <description><![CDATA[FREE科学上网]]></description>
         <link>https://loremwalker.github.io/fq-book/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 05 May 2018 10:02:03 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 May 2018 10:26:34 GMT</lastBuildDate>
         <atom:link href="https://loremwalker.github.io/fq-book/rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[loremwalker]]></author>
         <managingEditor><![CDATA[loremwalker@hotmail.com]]></managingEditor>
@@ -123,8 +123,8 @@
         <item>
             <title><![CDATA[SS/SSR]]></title>
             <description><![CDATA[访问ss站点，右键扫描二维码]]></description>
-            <link>https://loremwalker.github.io/fq-book/proxy-tool/shadowsocks.html</link>
-            <guid isPermaLink="true">https://loremwalker.github.io/fq-book/proxy-tool/shadowsocks.html</guid>
+            <link>https://loremwalker.github.io/fq-book/proxy-tool/ss-ssr.html</link>
+            <guid isPermaLink="true">https://loremwalker.github.io/fq-book/proxy-tool/ss-ssr.html</guid>
             <dc:creator><![CDATA[loremwalker]]></dc:creator>
         </item>
         <item>
@@ -269,10 +269,9 @@
 |科学上网的原理 |
 |写给非专业人士看的Shadowsocks简介 |
 |GFW原理和封锁技术|
-|游戏服务器：到底使用UDP还是TCP|
+|草榴社区这类色情网站为什么封不掉|
 |网络爬虫基本原理(一)|
-|网络爬虫基本原理(二)|
-|如何快速掌握Python数据采集与网络爬虫技术|]]></description>
+|网络爬虫基本原理(二)|]]></description>
             <link>https://loremwalker.github.io/fq-book/reference/literature.html</link>
             <guid isPermaLink="true">https://loremwalker.github.io/fq-book/reference/literature.html</guid>
             <dc:creator><![CDATA[loremwalker]]></dc:creator>

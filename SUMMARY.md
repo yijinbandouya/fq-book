@@ -29,7 +29,7 @@
 * [heroku搭建ss分享站点](how-used-web/heroku-deploy.md)
 
 ## 代理工具
-* [SS/SSR](proxy-tool/shadowsocks.md)
+* [SS/SSR](proxy-tool/ss-ssr.md)
 * [brook](proxy-tool/brook.md)
 * [v2ray](proxy-tool/v2ray.md)
 * [Lantern（付费）](proxy-tool/lantern.md)
