@@ -4,7 +4,7 @@
         <description><![CDATA[FREE科学上网]]></description>
         <link>https://loremwalker.github.io/fq-book/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 04 May 2018 12:12:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 May 2018 10:02:03 GMT</lastBuildDate>
         <atom:link href="https://loremwalker.github.io/fq-book/rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[loremwalker]]></author>
         <managingEditor><![CDATA[loremwalker@hotmail.com]]></managingEditor>
@@ -149,6 +149,13 @@
             <dc:creator><![CDATA[loremwalker]]></dc:creator>
         </item>
         <item>
+            <title><![CDATA[proxifier]]></title>
+            <description><![CDATA[与其他科学上网代理工具不同，这个款软件用于网络协议之间的转换。可用于打开各款不同协议的软件进行互联；试用一月，不受任何费用。]]></description>
+            <link>https://loremwalker.github.io/fq-book/proxy-tool/proxifier.html</link>
+            <guid isPermaLink="true">https://loremwalker.github.io/fq-book/proxy-tool/proxifier.html</guid>
+            <dc:creator><![CDATA[loremwalker]]></dc:creator>
+        </item>
+        <item>
             <title><![CDATA[Betternet]]></title>
             <description><![CDATA[使用方法]]></description>
             <link>https://loremwalker.github.io/fq-book/vpn-soft/betternet.html</link>
@@ -178,8 +185,8 @@
         </item>
         <item>
             <title><![CDATA[关于ss#1130]]></title>
-            <link>https://loremwalker.github.io/fq-book/extract/4ss1130.html</link>
-            <guid isPermaLink="true">https://loremwalker.github.io/fq-book/extract/4ss1130.html</guid>
+            <link>https://loremwalker.github.io/fq-book/extract/ss1130.html</link>
+            <guid isPermaLink="true">https://loremwalker.github.io/fq-book/extract/ss1130.html</guid>
             <dc:creator><![CDATA[loremwalker]]></dc:creator>
         </item>
         <item>
@@ -187,6 +194,13 @@
             <description><![CDATA[一个IP指向多个地址，污染一个域名还有另一个域名指向。]]></description>
             <link>https://loremwalker.github.io/fq-book/extract/caoliu.html</link>
             <guid isPermaLink="true">https://loremwalker.github.io/fq-book/extract/caoliu.html</guid>
+            <dc:creator><![CDATA[loremwalker]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[软件互联协议机制]]></title>
+            <description><![CDATA[软件使用网络协议取向：]]></description>
+            <link>https://loremwalker.github.io/fq-book/abc/connection.html</link>
+            <guid isPermaLink="true">https://loremwalker.github.io/fq-book/abc/connection.html</guid>
             <dc:creator><![CDATA[loremwalker]]></dc:creator>
         </item>
         <item>
@@ -225,6 +239,13 @@
             <dc:creator><![CDATA[loremwalker]]></dc:creator>
         </item>
         <item>
+            <title><![CDATA[爬虫原理]]></title>
+            <description><![CDATA[网络爬虫是捜索引擎抓取系统的重要组成部分。爬虫的主要目的是将互联网上的网页下载到本地形成一个或联网内容的镜像备份。这篇博客主要对爬虫以及抓取系统进行一个简单的概述。]]></description>
+            <link>https://loremwalker.github.io/fq-book/abc/2553061-2554072.html</link>
+            <guid isPermaLink="true">https://loremwalker.github.io/fq-book/abc/2553061-2554072.html</guid>
+            <dc:creator><![CDATA[loremwalker]]></dc:creator>
+        </item>
+        <item>
             <title><![CDATA[相关视频]]></title>
             <description><![CDATA[| 优土视频列表 |
 | :-: | --- | --- | --- | --- | --- | --- |
@@ -243,10 +264,15 @@
             <description><![CDATA[| 参考文献名单 |
 |:-:|
 |维基模板-突破网络封锁技术|
+|TCP/IP四层模型和OSI七层模型|
 |上网限制和翻墙基本原理 |
 |科学上网的原理 |
 |写给非专业人士看的Shadowsocks简介 |
-|GFW原理和封锁技术|]]></description>
+|GFW原理和封锁技术|
+|游戏服务器：到底使用UDP还是TCP|
+|网络爬虫基本原理(一)|
+|网络爬虫基本原理(二)|
+|如何快速掌握Python数据采集与网络爬虫技术|]]></description>
             <link>https://loremwalker.github.io/fq-book/reference/literature.html</link>
             <guid isPermaLink="true">https://loremwalker.github.io/fq-book/reference/literature.html</guid>
             <dc:creator><![CDATA[loremwalker]]></dc:creator>

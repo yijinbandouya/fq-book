@@ -33,6 +33,7 @@
 * [brook](proxy-tool/brook.md)
 * [v2ray](proxy-tool/v2ray.md)
 * [Lantern（付费）](proxy-tool/lantern.md)
+* [proxifier](proxy-tool/proxifier.md)
 
 ## VPN软件
 * [Betternet](vpn-soft/betternet.md)
@@ -41,15 +42,17 @@
 * [OpenVPN](vpn-soft/openvpn.md)
 
 ## 细节摘录
-* [关于ss#1130](extract/4ss1130.md)
+* [ss#1130](extract/ss1130.md)
 * [难封锁的草榴](extract/caoliu.md)
 
 ## 技术原理
+* [软件互联协议](abc/connection.md)
 * [DNS劫持与污染](abc/4dns.md)
 * [网页代理的原理](abc/web-proxy-x.md)
 * [meek网桥流量混淆](abc/meek.md)
 * [[转]科学上网原理](abc/1190000011485579.md)
 * [[转]GFW原理和封锁技术](abc/gfw.md)
+* [[转]爬虫原理（一、二）](abc/2553061-2554072.md)
 
 ## 相关视频
 * [视频列表](v-li/video-list.md)
