@@ -4,31 +4,31 @@
 
  未配置网络协议的情况下，打开telegram，连接是不成功的
 
-![](../.gitbook/assets/2018-05-05_003531%20%281%29.png)
+![](https://raw.githubusercontent.com/loremwalker/fq-book/master/.gitbook/assets/2018-05-05_003531%20%281%29.png)
 
 此时打开proxifier协议代理软件，在`profile`中选择`proxy servers`
 
-![](../.gitbook/assets/2018-05-05_00.png)
+![](https://raw.githubusercontent.com/loremwalker/fq-book/master/.gitbook/assets/2018-05-05_00.png)
 
 点击`add`选项弹出此`proxy server`窗口
 
-![](../.gitbook/assets/2018-05-05_012427.png)
+![](https://raw.githubusercontent.com/loremwalker/fq-book/master/.gitbook/assets/2018-05-05_012427.png)
 
 出现提示窗口一直默认即可
 
-![](../.gitbook/assets/2018-05-05_013230.png)
+![](https://raw.githubusercontent.com/loremwalker/fq-book/master/.gitbook/assets/2018-05-05_013230.png)
 
 这时处于`direct`选项全局模式OK
 
-![](../.gitbook/assets/2018-05-05_015347.png)
+![](https://raw.githubusercontent.com/loremwalker/fq-book/master/.gitbook/assets/2018-05-05_015347.png)
 
 勾选` Resolve hostnames through proxy`可防止DNS污染
 
-![](../.gitbook/assets/2018-05-05_013748.png)
+![](https://raw.githubusercontent.com/loremwalker/fq-book/master/.gitbook/assets/2018-05-05_013748.png)
 
 在ss的pac模式下测试telegram
 
-![](../.gitbook/assets/2018-05-05_01442.png)
+![](https://raw.githubusercontent.com/loremwalker/fq-book/master/.gitbook/assets/2018-05-05_01442.png)
 
 
 
