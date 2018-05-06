@@ -4,7 +4,7 @@
         <description><![CDATA[FREE科学上网]]></description>
         <link>https://loremwalker.github.io/fq-book/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 06 May 2018 14:17:28 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 May 2018 20:08:26 GMT</lastBuildDate>
         <atom:link href="https://loremwalker.github.io/fq-book/rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[loremwalker]]></author>
         <managingEditor><![CDATA[loremwalker@hotmail.com]]></managingEditor>
@@ -160,6 +160,13 @@
             <description><![CDATA[privoxy是一个http/https协议代理工具，通过它将sock协议转换为http/https协议，以便访问互联网，这也是v2rayGUI与ss自带的协议转发软件。]]></description>
             <link>https://loremwalker.github.io/fq-book/proxy-tool/privoxy.html</link>
             <guid isPermaLink="true">https://loremwalker.github.io/fq-book/proxy-tool/privoxy.html</guid>
+            <dc:creator><![CDATA[loremwalker]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[SSH-Tunnel]]></title>
+            <description><![CDATA[打开SSH站点，创建SSH账户]]></description>
+            <link>https://loremwalker.github.io/fq-book/proxy-tool/SSH-Tunnel.html</link>
+            <guid isPermaLink="true">https://loremwalker.github.io/fq-book/proxy-tool/SSH-Tunnel.html</guid>
             <dc:creator><![CDATA[loremwalker]]></dc:creator>
         </item>
         <item>
