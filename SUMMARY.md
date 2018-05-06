@@ -35,6 +35,7 @@
 * [Lantern](proxy-tool/lantern.md)
 * [proxifier](proxy-tool/proxifier.md)
 * [privoxy](proxy-tool/privoxy.md)
+* [SSH-Tunnel](proxy-tool/SSH-Tunnel.md)
 
 ## VPN软件
 * [付费VPN](vpn-soft/pay-vpn.md)
