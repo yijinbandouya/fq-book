@@ -4,7 +4,7 @@
         <description><![CDATA[FREE科学上网]]></description>
         <link>https://loremwalker.github.io/fq-book/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 05 May 2018 10:50:57 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 May 2018 10:26:11 GMT</lastBuildDate>
         <atom:link href="https://loremwalker.github.io/fq-book/rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[loremwalker]]></author>
         <managingEditor><![CDATA[loremwalker@hotmail.com]]></managingEditor>
@@ -229,6 +229,13 @@
             <description><![CDATA[在很久很久以前，我们访问各种网站都是简单而直接的，用户的请求通过互联网发送到服务提供方，服务提供方直接将信息反馈给用户。]]></description>
             <link>https://loremwalker.github.io/fq-book/abc/1190000011485579.html</link>
             <guid isPermaLink="true">https://loremwalker.github.io/fq-book/abc/1190000011485579.html</guid>
+            <dc:creator><![CDATA[loremwalker]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[科学上网的一些软件的原理]]></title>
+            <description><![CDATA[先说说Shadowsocks（简称ss），这个已经被封杀的软件。它的原理是：假设我们有一台在美国的服务器，我们可以在它上面安装ss的服务端（通常使用8388端口）。之后我们在我们的系统上安装ss的客户端（通常使用1080端口），这样客户端就可以与服务端通信并交换数据。于是，~~remotehost:8388与localhost:1080建立了通信~~（很抱歉，一开始这么写并没有考虑太多，后来想一想，外行人可以这么去理解，但是内行人不应该这么表述，因为存在科学性错误。实际上客户端进行通信所使用的端口并不固定，且不止一个，为方便表述，这里假设为A端口。假设现在服务端有个数据包要过来，ss在localhost:A与remotehost:8388通信的同时，利用客户端监听的1080端口，将数据包转发至1080端口，这样应用程序就可以通过localhost:1080访问到remotehost:8388。因此，remotehost:8388与localhost:1080并不是直接建立的通信，而是经过了ss的处理，看起来像是直接通信的），我们访问localhost:1080就相当于通过remotehost:8388访问。Shadowsocks使用的是SOCKS5代理协议。]]></description>
+            <link>https://loremwalker.github.io/fq-book/abc/065535.html</link>
+            <guid isPermaLink="true">https://loremwalker.github.io/fq-book/abc/065535.html</guid>
             <dc:creator><![CDATA[loremwalker]]></dc:creator>
         </item>
         <item>
