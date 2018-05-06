@@ -4,7 +4,7 @@
         <description><![CDATA[FREE科学上网]]></description>
         <link>https://loremwalker.github.io/fq-book/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 06 May 2018 12:52:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 May 2018 13:28:14 GMT</lastBuildDate>
         <atom:link href="https://loremwalker.github.io/fq-book/rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[loremwalker]]></author>
         <managingEditor><![CDATA[loremwalker@hotmail.com]]></managingEditor>
@@ -136,7 +136,7 @@
         </item>
         <item>
             <title><![CDATA[v2ray]]></title>
-            <description><![CDATA[在使用v2ray前，需要下载SwitchyOmega插件，打开ss分享站点，点击蓝色配置小齿轮，下载config.json文件]]></description>
+            <description><![CDATA[在使用v2ray前，需要下载SwitchyOmega插件，打开ss分享站点，点击蓝色配置小齿轮，下载config.json]]></description>
             <link>https://loremwalker.github.io/fq-book/proxy-tool/v2ray.html</link>
             <guid isPermaLink="true">https://loremwalker.github.io/fq-book/proxy-tool/v2ray.html</guid>
             <dc:creator><![CDATA[loremwalker]]></dc:creator>
@@ -150,7 +150,7 @@
         </item>
         <item>
             <title><![CDATA[proxifier]]></title>
-            <description><![CDATA[与其他科学上网代理工具不同，这个款软件用于网络协议之间的转换。可用于打开各款不同协议的软件进行互联；试用一月，不受任何费用。]]></description>
+            <description><![CDATA[与其他科学上网代理工具不同，这个款软件用于网络协议之间的转换。用于打开不同网络协议的软件互联；试用一月，不受任何费用。]]></description>
             <link>https://loremwalker.github.io/fq-book/proxy-tool/proxifier.html</link>
             <guid isPermaLink="true">https://loremwalker.github.io/fq-book/proxy-tool/proxifier.html</guid>
             <dc:creator><![CDATA[loremwalker]]></dc:creator>
