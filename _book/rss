@@ -4,7 +4,7 @@
         <description><![CDATA[FREE科学上网]]></description>
         <link>https://loremwalker.github.io/fq-book/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 06 May 2018 10:26:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 May 2018 12:52:11 GMT</lastBuildDate>
         <atom:link href="https://loremwalker.github.io/fq-book/rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[loremwalker]]></author>
         <managingEditor><![CDATA[loremwalker@hotmail.com]]></managingEditor>
@@ -153,6 +153,13 @@
             <description><![CDATA[与其他科学上网代理工具不同，这个款软件用于网络协议之间的转换。可用于打开各款不同协议的软件进行互联；试用一月，不受任何费用。]]></description>
             <link>https://loremwalker.github.io/fq-book/proxy-tool/proxifier.html</link>
             <guid isPermaLink="true">https://loremwalker.github.io/fq-book/proxy-tool/proxifier.html</guid>
+            <dc:creator><![CDATA[loremwalker]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[privoxy]]></title>
+            <description><![CDATA[privoxy是一个http/https协议代理工具，通过它将sock协议转换为http/https协议，以便访问互联网，这也是v2rayGUI与ss自带的协议转发软件。]]></description>
+            <link>https://loremwalker.github.io/fq-book/proxy-tool/privoxy.html</link>
+            <guid isPermaLink="true">https://loremwalker.github.io/fq-book/proxy-tool/privoxy.html</guid>
             <dc:creator><![CDATA[loremwalker]]></dc:creator>
         </item>
         <item>
