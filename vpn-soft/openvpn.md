@@ -1,6 +1,6 @@
 # OpenVPN
 
-**特别说明： 重点封杀对象，成功率极低，网速很差，仅供参考**
+重点封杀的对象，免费提供的配置连接成功率较低，也有很高的，网速还不错；此外，一些SSH站点也提供OpenVPN配置文件下载。
 
 进入[freeopenvpn.org](https://www.freeopenvpn.org/)，点击home查看服务器列表，`get access`、`download`皆可进入下载页面
 

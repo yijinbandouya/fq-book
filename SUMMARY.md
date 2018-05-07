@@ -40,8 +40,8 @@
 ## VPN软件
 * [付费VPN](vpn-soft/pay-vpn.md)
 * [Betternet](vpn-soft/betternet.md)
-* [GateVPN](vpn-soft/gatevpn.md)
 * [OpenVPN](vpn-soft/openvpn.md)
+* [GateVPN](vpn-soft/gatevpn.md)
 
 ## 细节摘录
 * [ss#1130](extract/ss1130.md)
@@ -53,9 +53,7 @@
 * [网页代理的原理](abc/web-proxy-x.md)
 * [meek网桥流量混淆](abc/meek.md)
 * [[转]科学上网原理](abc/1190000011485579.md)
-* [[转]科学上网的软件原理](abc/065535.md)
 * [[转]GFW原理和封锁技术](abc/gfw.md)
-* [[转]爬虫原理（一、二）](abc/2553061-2554072.md)
 
 ## 相关视频
 * [视频列表](v-li/video-list.md)
