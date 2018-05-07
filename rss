@@ -4,7 +4,7 @@
         <description><![CDATA[FREE科学上网]]></description>
         <link>https://loremwalker.github.io/fq-book/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 07 May 2018 11:43:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 May 2018 15:04:06 GMT</lastBuildDate>
         <atom:link href="https://loremwalker.github.io/fq-book/rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[loremwalker]]></author>
         <managingEditor><![CDATA[loremwalker@hotmail.com]]></managingEditor>
@@ -192,7 +192,7 @@
         </item>
         <item>
             <title><![CDATA[GateVPN]]></title>
-            <description><![CDATA[重点且易被封杀的对象，连接成功率极低，网速还很差，需要看协议、连接方式选择]]></description>
+            <description><![CDATA[重点且易被封杀的对象，需要选择合适的协议与连接方式，否则连接成功率极低]]></description>
             <link>https://loremwalker.github.io/fq-book/vpn-soft/gatevpn.html</link>
             <guid isPermaLink="true">https://loremwalker.github.io/fq-book/vpn-soft/gatevpn.html</guid>
             <dc:creator><![CDATA[loremwalker]]></dc:creator>
@@ -239,6 +239,13 @@
             <dc:creator><![CDATA[loremwalker]]></dc:creator>
         </item>
         <item>
+            <title><![CDATA[[转]VPN隧道协议]]></title>
+            <description><![CDATA[整理自网络：]]></description>
+            <link>https://loremwalker.github.io/fq-book/abc/4vpn.html</link>
+            <guid isPermaLink="true">https://loremwalker.github.io/fq-book/abc/4vpn.html</guid>
+            <dc:creator><![CDATA[loremwalker]]></dc:creator>
+        </item>
+        <item>
             <title><![CDATA[[转]科学上网原理]]></title>
             <description><![CDATA[在很久很久以前，我们访问各种网站都是简单而直接的，用户的请求通过互联网发送到服务提供方，服务提供方直接将信息反馈给用户。]]></description>
             <link>https://loremwalker.github.io/fq-book/abc/1190000011485579.html</link>
@@ -272,6 +279,7 @@
 |:-:|
 |GFW原理和封锁技术|
 |维基模板-突破网络封锁技术|
+|详解防火墙ISA策略元素|
 |TCP/IP四层模型和OSI七层模型|
 |上网限制和翻墙基本原理 |
 |科学上网的原理 |
@@ -289,8 +297,9 @@
         </item>
         <item>
             <title><![CDATA[总结]]></title>
-            <link>https://loremwalker.github.io/fq-book/yan-shi-san.html</link>
-            <guid isPermaLink="true">https://loremwalker.github.io/fq-book/yan-shi-san.html</guid>
+            <description><![CDATA[科学上网的工具有很多，方式也不少，受到各方面不同程度的封杀也很多；随着各个方面的管制加深，随时面临断网的单一上网方式，已经不能满足需要了；因此，掌握多种上网方式与技巧并科学有效地结合使用就显得尤为必要了。]]></description>
+            <link>https://loremwalker.github.io/fq-book/summarize.html</link>
+            <guid isPermaLink="true">https://loremwalker.github.io/fq-book/summarize.html</guid>
             <dc:creator><![CDATA[loremwalker]]></dc:creator>
         </item>
     </channel>
