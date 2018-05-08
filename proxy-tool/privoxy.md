@@ -37,8 +37,8 @@ listen-address 0.0.0.0:8118
 
 `高级`设置`代理`选择`手动`，按照如下信息设置
 
-![](/.gitbook/assets/QQ20180507165544.png)
+![](https://raw.githubusercontent.com/loremwalker/fq-book/master/.gitbook/assets/QQ20180507165544.png)
 
 测试
 
-![](/.gitbook/assets/QQ20180507165554.png)
+![](https://raw.githubusercontent.com/loremwalker/fq-book/master/.gitbook/assets/QQ20180507165554.png)

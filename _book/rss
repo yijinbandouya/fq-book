@@ -4,7 +4,7 @@
         <description><![CDATA[FREE科学上网]]></description>
         <link>https://loremwalker.github.io/fq-book/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 07 May 2018 15:04:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 May 2018 14:47:30 GMT</lastBuildDate>
         <atom:link href="https://loremwalker.github.io/fq-book/rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[loremwalker]]></author>
         <managingEditor><![CDATA[loremwalker@hotmail.com]]></managingEditor>
@@ -178,7 +178,7 @@
         </item>
         <item>
             <title><![CDATA[Betternet]]></title>
-            <description><![CDATA[使用方法]]></description>
+            <description><![CDATA[点击]]></description>
             <link>https://loremwalker.github.io/fq-book/vpn-soft/betternet.html</link>
             <guid isPermaLink="true">https://loremwalker.github.io/fq-book/vpn-soft/betternet.html</guid>
             <dc:creator><![CDATA[loremwalker]]></dc:creator>
