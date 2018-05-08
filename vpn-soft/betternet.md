@@ -34,4 +34,4 @@
 
 测试
 
-![](../.gitbook/assets/QQ20180508224420.png)
+![](https://raw.githubusercontent.com/loremwalker/fq-book/master/.gitbook/assets/QQ20180508224420.png)
