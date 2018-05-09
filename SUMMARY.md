@@ -46,8 +46,9 @@
 ## 细节摘录
 * [ss#1130](extract/ss1130.md)
 * [难封锁的草榴](extract/caoliu.md)
+* [对游戏的进一步说明](extract/game.md)
 
-## 技术原理
+## 科学普及
 * [软件互联协议](abc/connection.md)
 * [DNS劫持与污染](abc/4dns.md)
 * [网页代理的原理](abc/web-proxy-x.md)
@@ -55,6 +56,8 @@
 * [[转]VPN隧道协议](abc/4vpn.md)
 * [[转]科学上网原理](abc/1190000011485579.md)
 * [[转]GFW原理和封锁技术](abc/gfw.md)
+* [[转]用Win7，电脑就是路由器](abc/win7-wifi.md)
+* [[转]net类型科普以及提升的方法](abc/4nat.md)
 
 ## 相关视频
 * [视频列表](v-li/video-list.md)

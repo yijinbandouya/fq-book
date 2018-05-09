@@ -4,7 +4,7 @@
         <description><![CDATA[FREE科学上网]]></description>
         <link>https://loremwalker.github.io/fq-book/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 08 May 2018 14:57:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 May 2018 07:25:57 GMT</lastBuildDate>
         <atom:link href="https://loremwalker.github.io/fq-book/rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[loremwalker]]></author>
         <managingEditor><![CDATA[loremwalker@hotmail.com]]></managingEditor>
@@ -59,7 +59,7 @@
         </item>
         <item>
             <title><![CDATA[Tor（Firefox）]]></title>
-            <description><![CDATA[azure已由政府背景的企业所代理，不太建议选择]]></description>
+            <description><![CDATA[与tor性质差不多的软件还有I2P，更具隐匿性更抗封杀，有兴趣的可以试试看，这里就不做说明与演示了。]]></description>
             <link>https://loremwalker.github.io/fq-book/browser/tor-firefox.html</link>
             <guid isPermaLink="true">https://loremwalker.github.io/fq-book/browser/tor-firefox.html</guid>
             <dc:creator><![CDATA[loremwalker]]></dc:creator>
@@ -211,6 +211,13 @@
             <dc:creator><![CDATA[loremwalker]]></dc:creator>
         </item>
         <item>
+            <title><![CDATA[对游戏的进一步说明]]></title>
+            <description><![CDATA[游戏的话，GFW目前对这块干涉比较少，多数游戏是可以连接各国家/地区的服务器，只不过ping值有些过高而已；倒是游戏厂商很热衷封锁中国IP，连接受到各种限制，港澳台除外了。]]></description>
+            <link>https://loremwalker.github.io/fq-book/extract/game.html</link>
+            <guid isPermaLink="true">https://loremwalker.github.io/fq-book/extract/game.html</guid>
+            <dc:creator><![CDATA[loremwalker]]></dc:creator>
+        </item>
+        <item>
             <title><![CDATA[软件互联协议机制]]></title>
             <description><![CDATA[软件使用网络协议取向：]]></description>
             <link>https://loremwalker.github.io/fq-book/abc/connection.html</link>
@@ -260,6 +267,21 @@
             <dc:creator><![CDATA[loremwalker]]></dc:creator>
         </item>
         <item>
+            <title><![CDATA[[转]用Win7，电脑就是路由器]]></title>
+            <description><![CDATA[在平常上网过程中，难免会遇到一些网络方面的问题，这时候我们就需要查看网络连接的状态，查找问题根源。]]></description>
+            <link>https://loremwalker.github.io/fq-book/abc/win7-wifi.html</link>
+            <guid isPermaLink="true">https://loremwalker.github.io/fq-book/abc/win7-wifi.html</guid>
+            <dc:creator><![CDATA[loremwalker]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[NAT类型科普及一些简单提升NAT类型的方法]]></title>
+            <description><![CDATA[首先可以在百度百科了解到什么是“NAT”，传送门→“NAT科普”
+然后呢，看了那么多我们大概就知道了一些关于NAT的基本知识，比如说定义、功能、实现方式及类型]]></description>
+            <link>https://loremwalker.github.io/fq-book/abc/4nat.html</link>
+            <guid isPermaLink="true">https://loremwalker.github.io/fq-book/abc/4nat.html</guid>
+            <dc:creator><![CDATA[loremwalker]]></dc:creator>
+        </item>
+        <item>
             <title><![CDATA[相关视频]]></title>
             <description><![CDATA[| 优土视频列表 |
 | :-: | --- | --- | --- | --- | --- | --- |
@@ -278,9 +300,10 @@
             <description><![CDATA[| 参考文献名单 |
 |:-:|
 |GFW原理和封锁技术|
-|维基模板-突破网络封锁技术|
 |详解防火墙ISA策略元素|
+|维基模板-突破网络封锁技术|
 |TCP/IP四层模型和OSI七层模型|
+|Drcom校园网使用VPN代理|
 |上网限制和翻墙基本原理 |
 |科学上网的原理 |
 |科学上网的软件原理|
@@ -290,6 +313,10 @@
 |[计算机网络]简易http server程序|
 |端口映射和端口转发的区别？|
 |图解正向代理、反向代理、透明代理|
+|用Win7，电脑就是路由器|
+|NAT类型科普及一些简单提升NAT类型的方法|
+|四种NAT的iptables实现|
+|NAT 类型及检测方法|
 |草榴社区这类色情网站为什么封不掉|]]></description>
             <link>https://loremwalker.github.io/fq-book/reference/literature.html</link>
             <guid isPermaLink="true">https://loremwalker.github.io/fq-book/reference/literature.html</guid>
@@ -297,7 +324,7 @@
         </item>
         <item>
             <title><![CDATA[总结]]></title>
-            <description><![CDATA[科学上网的工具有很多，方式也不少，受到各方面不同程度的封杀也很多；随着各个方面的管制加深，随时面临断网的单一上网方式，已经不能满足需要了；因此，掌握多种上网方式与技巧并科学有效地结合使用就显得尤为必要了。]]></description>
+            <description><![CDATA[科学上网的工具有很多，方式也不少，受到各方面不同程度的封杀也很多；随着各个方面的管制加深，随时面临断网的单一上网方式，已经不能满足需要了；因此，掌握多种上网方式与技巧并科学有效地结合使用就显得尤为必要了。举个例子，通过opera访问ss分享站点，下载相关chrome代理插件或VPN，像这样组成一个个互相连接的节点，相对来说就不是那么容易断网了。]]></description>
             <link>https://loremwalker.github.io/fq-book/summarize.html</link>
             <guid isPermaLink="true">https://loremwalker.github.io/fq-book/summarize.html</guid>
             <dc:creator><![CDATA[loremwalker]]></dc:creator>

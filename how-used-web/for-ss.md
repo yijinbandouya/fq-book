@@ -38,9 +38,4 @@ ps：github上有很多此类分享站点的**私有**部署项目
 
 ![](https://raw.githubusercontent.com/loremwalker/fq-book/master/.gitbook/assets/2018-05-01_191319.png)
 
-
-
 ![](https://raw.githubusercontent.com/loremwalker/fq-book/master/.gitbook/assets/2018-05-01_191408.png)
-
-![](https://raw.githubusercontent.com/loremwalker/fq-book/master/.gitbook/assets/2018-05-01_191203%20%281%29.png)
-
