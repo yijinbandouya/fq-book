@@ -4,7 +4,7 @@
         <description><![CDATA[FREE科学上网]]></description>
         <link>https://loremwalker.github.io/fq-book/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 09 May 2018 06:00:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 May 2018 07:25:57 GMT</lastBuildDate>
         <atom:link href="https://loremwalker.github.io/fq-book/rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[loremwalker]]></author>
         <managingEditor><![CDATA[loremwalker@hotmail.com]]></managingEditor>
@@ -208,6 +208,13 @@
             <description><![CDATA[一个IP指向多个地址，污染一个域名还有另一个域名指向。]]></description>
             <link>https://loremwalker.github.io/fq-book/extract/caoliu.html</link>
             <guid isPermaLink="true">https://loremwalker.github.io/fq-book/extract/caoliu.html</guid>
+            <dc:creator><![CDATA[loremwalker]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[对游戏的进一步说明]]></title>
+            <description><![CDATA[游戏的话，GFW目前对这块干涉比较少，多数游戏是可以连接各国家/地区的服务器，只不过ping值有些过高而已；倒是游戏厂商很热衷封锁中国IP，连接受到各种限制，港澳台除外了。]]></description>
+            <link>https://loremwalker.github.io/fq-book/extract/game.html</link>
+            <guid isPermaLink="true">https://loremwalker.github.io/fq-book/extract/game.html</guid>
             <dc:creator><![CDATA[loremwalker]]></dc:creator>
         </item>
         <item>
