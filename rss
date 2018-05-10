@@ -4,7 +4,7 @@
         <description><![CDATA[FREE科学上网]]></description>
         <link>https://loremwalker.github.io/fq-book/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 10 May 2018 18:30:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 May 2018 19:52:52 GMT</lastBuildDate>
         <atom:link href="https://loremwalker.github.io/fq-book/rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[loremwalker]]></author>
         <managingEditor><![CDATA[loremwalker@hotmail.com]]></managingEditor>
@@ -30,9 +30,9 @@
             <dc:creator><![CDATA[loremwalker]]></dc:creator>
         </item>
         <item>
-            <title><![CDATA[关于NSFW网站的注册]]></title>
-            <link>https://loremwalker.github.io/fq-book/notice/reg-nsfw.html</link>
-            <guid isPermaLink="true">https://loremwalker.github.io/fq-book/notice/reg-nsfw.html</guid>
+            <title><![CDATA[隐私防护]]></title>
+            <link>https://loremwalker.github.io/fq-book/notice/nsfw.html</link>
+            <guid isPermaLink="true">https://loremwalker.github.io/fq-book/notice/nsfw.html</guid>
             <dc:creator><![CDATA[loremwalker]]></dc:creator>
         </item>
         <item>
