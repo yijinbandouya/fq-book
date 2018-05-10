@@ -31,7 +31,8 @@
         "advanced-emoji",
         "tbfed-pagefooter",
         "github",
-        "ga"
+        "ga",
+        "github-buttons"
     ],
 
     "pluginsConfig": {
@@ -42,22 +43,37 @@
         "theme-default": {"showLevel": true},
         
         "expandable-chapters-small":{},
+
+        "github-buttons": {
+            "buttons": [{
+              "user": "loremwalker",
+              "repo": "fq-book",
+              "type": "star",
+              "size": "smail",
+              "count": true
+            }, {
+                "user": "loremwalker",
+                "type": "fork",
+                "size": "smail",
+                "count": true
+              }]
+    },
       
         "github": {"url": "https://github.com/loremwalker"},  
         "sharing": {
             "douban": false,
-            "facebook": true,
-            "google": true,
+            "facebook": false,
+            "google": false,
             "hatenaBookmark": false,
             "instapaper": false,
             "line": false,
             "linkedin": false,
             "messenger": false,
             "pocket": false,
-            "qq": true,
-            "qzone": true,
+            "qq": false,
+            "qzone": false,
             "stumbleupon": false,
-            "twitter": true,
+            "twitter": false,
             "viber": false,
             "vk": false,
             "weibo": false,
