@@ -8,7 +8,7 @@
 
 * [4GFW](notice/4gfw.md)
 * [注意事项](notice/warnning.md)
-* [隐私防护](notice/reg-nsfw.md)
+* [隐私防护](notice/nsfw.md)
 
 ## 搜索引擎
 
