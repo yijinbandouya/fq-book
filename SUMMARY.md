@@ -18,6 +18,9 @@
 * [opera](browser/opera.md)
 * [chrome](browser/chrome.md)
 
+## 防止劫持
+* [修改DNS防止劫持](no-dns-hijacking/dns.md)
+
 ## 防止污染
 * [修改hosts查询维基百科](no-dns-spoofing/hosts.md)
 * [DNSCrypt打开ss分享站点](no-dns-spoofing/dnscrypt.md)
@@ -52,15 +55,12 @@
 * [软件互联协议](abc/connection.md)
 * [DNS劫持与污染](abc/4dns.md)
 * [网页代理的原理](abc/web-proxy-x.md)
-* [meek网桥流量混淆](abc/meek.md)
 * [[转]VPN隧道协议](abc/4vpn.md)
 * [[转]科学上网原理](abc/1190000011485579.md)
 * [[转]GFW原理和封锁技术](abc/gfw.md)
+* [[转]meek网桥的技术原理](abc/meek.md)
 * [[转]用Win7，电脑就是路由器](abc/win7-wifi.md)
 * [[转]net类型科普以及提升的方法](abc/4nat.md)
-
-## 相关视频
-* [视频列表](v-li/video-list.md)
 
 ## 参考文献
 * [文献名单](reference/literature.md)
