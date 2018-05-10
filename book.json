@@ -1,5 +1,5 @@
 {
-    "title": "科学上网",
+    "title": "这本书能让你连接互联网",
     "description": "FREE科学上网的方式",
     "author": "loremwalker",
     "output.name": "site",
@@ -13,7 +13,7 @@
 
     "links": {
         "sidebar": {
-            "科学上网":"/"
+            "这本书能让你连接互联网":"/"
         }
     },
     "plugins": [
