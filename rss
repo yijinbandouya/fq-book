@@ -4,7 +4,7 @@
         <description><![CDATA[FREE科学上网]]></description>
         <link>https://loremwalker.github.io/fq-book/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 09 May 2018 10:47:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 May 2018 11:11:52 GMT</lastBuildDate>
         <atom:link href="https://loremwalker.github.io/fq-book/rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[loremwalker]]></author>
         <managingEditor><![CDATA[loremwalker@hotmail.com]]></managingEditor>
@@ -76,6 +76,13 @@
             <description><![CDATA[将opera扩展下载的chrome扩展压缩包，进行解压生成文件夹]]></description>
             <link>https://loremwalker.github.io/fq-book/browser/chrome.html</link>
             <guid isPermaLink="true">https://loremwalker.github.io/fq-book/browser/chrome.html</guid>
+            <dc:creator><![CDATA[loremwalker]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[修改DNS防止劫持]]></title>
+            <description><![CDATA[进入baidns.cn，记住此DNS地址]]></description>
+            <link>https://loremwalker.github.io/fq-book/no-dns-hijacking/dns.html</link>
+            <guid isPermaLink="true">https://loremwalker.github.io/fq-book/no-dns-hijacking/dns.html</guid>
             <dc:creator><![CDATA[loremwalker]]></dc:creator>
         </item>
         <item>
@@ -226,7 +233,7 @@
         </item>
         <item>
             <title><![CDATA[域名劫持与污染]]></title>
-            <description><![CDATA[简单来说Hosts文件负责将主机名映射到相应的IP地址。hosts文件通常用于补充或取代网络中DNS的功能。和DNS不同的是，计算机的用户可以直接对hosts文件进行控制。]]></description>
+            <description><![CDATA[域名是Internet上某一台计算机或计算机组的名称，用于数据传输时标识计算机的电子方位，有时也指地理位置。域名是由一串用点分隔的名字组成的，通常包含组织名，而且始终包括两到三个字母的后缀，以指明组织的类型或该域所在的国家或地区。]]></description>
             <link>https://loremwalker.github.io/fq-book/abc/4dns.html</link>
             <guid isPermaLink="true">https://loremwalker.github.io/fq-book/abc/4dns.html</guid>
             <dc:creator><![CDATA[loremwalker]]></dc:creator>
@@ -236,13 +243,6 @@
             <description><![CDATA[浏览器客户端提交网址的时候，代理程序开始在当前服务器寻找远程网站的缓存网页和网站，找到目标网站后，代理程序马上将网站数据返回到用户的浏览器客户端。]]></description>
             <link>https://loremwalker.github.io/fq-book/abc/web-proxy-x.html</link>
             <guid isPermaLink="true">https://loremwalker.github.io/fq-book/abc/web-proxy-x.html</guid>
-            <dc:creator><![CDATA[loremwalker]]></dc:creator>
-        </item>
-        <item>
-            <title><![CDATA[meek网桥流量混淆]]></title>
-            <description><![CDATA[Meek网桥所达到的目地，Tor的网络流量伪装成访问微软Azure或亚马逊云服务。让火狐浏览器直接以TLS方式访问搭建在azure或者aws上的meek网桥节点，从而迷惑GFW。由于这两个云服务国内很多厂商都在使用，无法一刀切，因此可以用于伪装Tor数据流量。]]></description>
-            <link>https://loremwalker.github.io/fq-book/abc/meek.html</link>
-            <guid isPermaLink="true">https://loremwalker.github.io/fq-book/abc/meek.html</guid>
             <dc:creator><![CDATA[loremwalker]]></dc:creator>
         </item>
         <item>
@@ -267,6 +267,13 @@
             <dc:creator><![CDATA[loremwalker]]></dc:creator>
         </item>
         <item>
+            <title><![CDATA[[转]meek网桥的技术原理]]></title>
+            <description><![CDATA[首先，tor从使用者本机直到出口节点的传输是强加密的，别人无法偷窥你的真实网络流量。除非tor软件本身出现严重安全漏洞或者碰到的出口节点是蜜罐。]]></description>
+            <link>https://loremwalker.github.io/fq-book/abc/meek.html</link>
+            <guid isPermaLink="true">https://loremwalker.github.io/fq-book/abc/meek.html</guid>
+            <dc:creator><![CDATA[loremwalker]]></dc:creator>
+        </item>
+        <item>
             <title><![CDATA[[转]用Win7，电脑就是路由器]]></title>
             <description><![CDATA[在平常上网过程中，难免会遇到一些网络方面的问题，这时候我们就需要查看网络连接的状态，查找问题根源。]]></description>
             <link>https://loremwalker.github.io/fq-book/abc/win7-wifi.html</link>
@@ -282,31 +289,22 @@
             <dc:creator><![CDATA[loremwalker]]></dc:creator>
         </item>
         <item>
-            <title><![CDATA[相关视频]]></title>
-            <description><![CDATA[| 优土视频列表 |
-| :-: | --- | --- | --- | --- | --- | --- |
-|  iQiQi对暗网的访问 |
-|  Professor PowPow对暗网的介绍 |
-| AWS(亚马逊云)搭建免费高速VPS |
-|  利用微软云Azure搭建高速VPS |
-|  在亞馬遜架設日本VPN |
-|  路由器翻墙去广告 |]]></description>
-            <link>https://loremwalker.github.io/fq-book/v-li/video-list.html</link>
-            <guid isPermaLink="true">https://loremwalker.github.io/fq-book/v-li/video-list.html</guid>
-            <dc:creator><![CDATA[loremwalker]]></dc:creator>
-        </item>
-        <item>
             <title><![CDATA[参考文献]]></title>
             <description><![CDATA[| 参考文献名单 |
 |:-:|
-|GFW原理和封锁技术|
-|详解防火墙ISA策略元素|
 |维基模板-突破网络封锁技术|
+|网络封锁技术方案与反网络封锁技术方案|
+|GFW原理和封锁技术|
+|翻墙路由器的原理与实现|
+|详解防火墙ISA策略元素|
 |TCP/IP四层模型和OSI七层模型|
 |Drcom校园网使用VPN代理|
+|meek流量混淆原理|
+|功夫网原理不靠谱的DNS|
 |上网限制和翻墙基本原理 |
 |科学上网的原理 |
 |科学上网的软件原理|
+|dnsmasq+Stunnel+sniproxy加密代理|
 |VPN隧道协议PPTP、L2TP、IPSec和SSLVPN|
 |VPN 隧道协议PPTP、L2TP、IPSec和SSLVPN的区别|
 |写给非专业人士看的Shadowsocks简介 |
