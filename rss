@@ -4,7 +4,7 @@
         <description><![CDATA[FREE科学上网]]></description>
         <link>https://loremwalker.github.io/fq-book/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 10 May 2018 11:11:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 May 2018 11:55:59 GMT</lastBuildDate>
         <atom:link href="https://loremwalker.github.io/fq-book/rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[loremwalker]]></author>
         <managingEditor><![CDATA[loremwalker@hotmail.com]]></managingEditor>
@@ -240,7 +240,7 @@
         </item>
         <item>
             <title><![CDATA[网页代理原理]]></title>
-            <description><![CDATA[浏览器客户端提交网址的时候，代理程序开始在当前服务器寻找远程网站的缓存网页和网站，找到目标网站后，代理程序马上将网站数据返回到用户的浏览器客户端。]]></description>
+            <description><![CDATA[浏览器客户端提交网址的时候，代理程序开始在当前服务器寻找远程网站的缓存网页和网站，找到目标网站后，代理程序马上将网站数据返回到用户的浏览器客户端；如果当前服务器没有该远程服务器的缓存，代理程序则会自动读取远程网站，将远程网站的资料提交给客户端，同时将资料缓存提供给下一次的浏览需求。]]></description>
             <link>https://loremwalker.github.io/fq-book/abc/web-proxy-x.html</link>
             <guid isPermaLink="true">https://loremwalker.github.io/fq-book/abc/web-proxy-x.html</guid>
             <dc:creator><![CDATA[loremwalker]]></dc:creator>
