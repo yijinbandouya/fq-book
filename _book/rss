@@ -4,7 +4,7 @@
         <description><![CDATA[FREE科学上网]]></description>
         <link>https://loremwalker.github.io/fq-book/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 10 May 2018 20:13:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 May 2018 11:15:25 GMT</lastBuildDate>
         <atom:link href="https://loremwalker.github.io/fq-book/rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[loremwalker]]></author>
         <managingEditor><![CDATA[loremwalker@hotmail.com]]></managingEditor>
@@ -155,8 +155,8 @@
             <dc:creator><![CDATA[loremwalker]]></dc:creator>
         </item>
         <item>
-            <title><![CDATA[Lantern（付费）]]></title>
-            <description><![CDATA[打开蓝灯，高级设置，按此配置代理]]></description>
+            <title><![CDATA[Lantern]]></title>
+            <description><![CDATA[打开蓝灯点击高级设置按此配置代理，类似的代理软件有tuxler，免费免流无期限使用]]></description>
             <link>https://loremwalker.github.io/fq-book/proxy-tool/lantern.html</link>
             <guid isPermaLink="true">https://loremwalker.github.io/fq-book/proxy-tool/lantern.html</guid>
             <dc:creator><![CDATA[loremwalker]]></dc:creator>
